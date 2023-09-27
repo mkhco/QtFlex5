@@ -157,10 +157,10 @@ void DockGuiderImpl::updateGuidersVisibility()
         _tGuiderVisible[2] = true;
         _rGuiderVisible[2] = true;
         _bGuiderVisible[2] = true;
-        _lGuiderRect[1] = QRect(46, 90, 30, 30);
-        _tGuiderRect[1] = QRect(90, 46, 30, 30);
-        _rGuiderRect[1] = QRect(133, 90, 30, 30);
-        _bGuiderRect[1] = QRect(90, 133, 30, 30);
+        _lGuiderRect[1] = QRect(47 92, 30, 30);
+        _tGuiderRect[1] = QRect(90, 48, 30, 30);
+        _rGuiderRect[1] = QRect(133, 90, 32, 30);
+        _bGuiderRect[1] = QRect(90, 135, 30, 30);
     }
 }
 
